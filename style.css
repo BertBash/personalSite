@@ -1,0 +1,52 @@
+body{
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    background-image: url("./assets/images/levi-midnight-GyhtzbOUeVI-unsplash.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.contentWrapper{
+    padding: 20rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+header{
+    background-color: #111111;
+}
+
+footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1{
+    text-align: center;
+    font-size: 64pt;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    font-weight: bold;
+}
+
+p{
+    font-size: 22pt;
+}
+
+a:hover{
+    color: white;
+    text-decoration: none;
+}
+
+a{
+    color: white;
+}
